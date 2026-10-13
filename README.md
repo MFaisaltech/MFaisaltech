@@ -1,16 +1,16 @@
-## Hi there 👋
+# Faisal Khan — Blockchain Developer (Solidity, React)
 
-<!--
-**MFaisaltech/MFaisaltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Faisal Khan, a blockchain developer from Pakistan building smart contracts and decentralized apps. I work with Solidity, React, and modern blockchain development tooling to ship secure, production-ready dApps.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Solidity** — smart contract development, testing, and deployment
+- **Smart contracts** — token standards, audits-minded secure contract design
+- **React** — dApp frontends and Web3 UI integration
+- **Blockchain development** — wallets, transactions, and on-chain interaction
+
+## Work with me
+
+I'm **open to freelance and remote opportunities** in blockchain development — from smart contract builds to full-stack dApp development.
+
+Connect with me through this GitHub profile.
